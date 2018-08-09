@@ -1,2 +1,2 @@
 const companyName = "Scuber";
-let mostProfitableNeighborhood = 'Chelsea';
+const mostProfitableNeighborhood = 'Chelsea';
